@@ -4,7 +4,7 @@
 
 ## Constructors
 
-There is a lot of different ways to create objects. 
+There are many different ways to create objects. 
 
 **Object Literal Notation**
 
@@ -196,7 +196,7 @@ function Person (first, last) {
 }
 
 Person.inspiringMessage = "Use the force!!";
-console.log(Perosn.inspiringMessage);
+console.log(Person.inspiringMessage);
 // logs "Use the force!!"
 ```
 

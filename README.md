@@ -8,6 +8,25 @@
 | Learn the Object Oriented aspects of Javascript |
 | Learn basic design patterns and testing with Javascript |
 
+## Tentative Agenda
+
+* [Functions](README.md)
+* [Intro Node](intro_node.md)
+* [Intro Testing](intro_testing.md)
+* [Better Testing](better_testing.md)
+* [Constructors](constructors.md)
+* [Intro Prototype](intro_prototype.md)
+* [Prototypal Inheritance](intro_prototypical_inhertitance.md)
+
+## Recommended Reading
+
+* **JavaScript and JQuery: Interactive Front-End Web Development**
+* **JavaScript Ninja**
+
+## Intermediate JS?
+
+* [Angelina Fabbro: JS Masterclass](http://afabbro.github.io/jsconf2013/)
+
 ## JS Functions
 
 Any discussion of javascript starts with an introduction to functions, because some might add that in JS functions come first, i.e. **first class functions**.

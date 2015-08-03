@@ -208,7 +208,7 @@ function Person (first, last) {
   this.firstName = first;
   this.lastName = last;
   this.fullName = function () {
-    return this.lastName + ", " this.firstName;
+    return this.lastName + ", " + this.firstName;
   };
 
   Person.all.push(this);
